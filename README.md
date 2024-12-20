@@ -1,1 +1,2 @@
 # Wordpress-Project
+Nous avons tout d'abord installer le wordpress et nous mettons le dossier qui contient l'installation du wordpress dans le serveur web de wamp , après nous avons créer une nouvelle base de données sur mySql qui s'appelle wordpress . Ensuite , nous avons accéder au wordpress d'aprés le navigateur et nous avons le lier avec notre base de données , En fin , on a essayer de préparer notre site web .
